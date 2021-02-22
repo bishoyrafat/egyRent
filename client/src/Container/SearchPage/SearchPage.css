@@ -1,0 +1,92 @@
+.searchPage__info {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(246, 246, 246);
+}
+
+.searchPage__info > p {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.searchPage__info > h1 {
+  margin-bottom: 30px;
+}
+
+.searchPage__info > button {
+  text-transform: inherit;
+  margin: 5px;
+
+  border-radius: 30px;
+  text-transform: inherit;
+  margin: 5px;
+}
+.select {
+  width: 300px;
+  display: inline;
+  padding: 300px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.nearby {
+  position: relative;
+  left: 600px;
+  background-color: rgb(243, 243, 243);
+  width: 720px;
+}
+
+.nearby1 {
+  text-align: center;
+  padding: 20px;
+}
+
+.search1 {
+  /* padding: 3px;*/
+  width: 17%;
+  /* height: 100%; */
+  margin: 20px;
+  position: relative;
+  left: 30px;
+  border-radius: 10px;
+  border: 1px solid rgba(26, 62, 223, 0.924);
+  text-align: center;
+  font-size: 16px;
+  background-color: rgb(238, 239, 240);
+  display: inline;
+  appearance: inherit;
+  cursor: pointer;
+}
+.search-price {
+  height: 47px;
+}
+
+.container1 {
+  background-color: rgb(251, 250, 250);
+}
+
+.search1:hover {
+  background-color: rgb(233, 234, 235);
+}
+
+.reset {
+  background-color: rgb(32, 54, 29);
+  color: aliceblue;
+  border-radius: 10px;
+  padding: 3px;
+  font-weight: bolder;
+  outline: 0;
+}
+.contain {
+  background-color: rgb(235, 236, 236);
+}
+.label {
+  position: relative;
+  left: 80px;
+  border: 3px solid rgb(31, 9, 226);
+  padding: 6px;
+  border-radius: 60px;
+  background-color: rgb(151, 187, 253);
+  color: rgb(0, 3, 5);
+}
